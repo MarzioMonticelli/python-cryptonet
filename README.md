@@ -1,4 +1,4 @@
-# 3db - Explore database structure in 3D environments.  
+# A Python implementation of CryptoNets  
 > A Python implementation of CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy.
 It was developed by Marzio Monticelli as final project for the course of Neural Network at Sapienza, University of Rome.
 
@@ -15,6 +15,8 @@ presented in CryptoNets paper. Results presented in this work are elaborated on 
 MNIST optical character recognition tasks and are compared to the results from the
 original paper so that to demonstrate the quality of both throughput and accuracy
 with respect to the results from the original work by Microsoft Research group. . .
+
+To read more about this project you can found the final report in the ``documentation`` folder. 
 
 
 ## What is this repository for?
