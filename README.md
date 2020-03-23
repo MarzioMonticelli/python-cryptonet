@@ -16,6 +16,8 @@ MNIST optical character recognition tasks and are compared to the results from t
 original paper so that to demonstrate the quality of both throughput and accuracy
 with respect to the results from the original work by Microsoft Research group. . .
 
+To read more about this project you can found the final report and in the ``documentation`` folder. 
+
 
 ## What is this repository for?
 This repository is intended for presentation purposes only.
