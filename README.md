@@ -1,6 +1,6 @@
 # A Python implementation of CryptoNets  
 > A Python implementation of CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy.
-It was developed by Marzio Monticelli as final project for the course of Neural Network at Sapienza, University of Rome.
+It was developed by Marzio Monticelli as final project of the course of Neural Networks at Sapienza, University of Rome.
 
 This project is about an implementation of the paper by Microsoft Research group
 in collaboration with Princeton University called "CryptoNets: Applying Neural
