@@ -1,4 +1,4 @@
-# 3db - Explore database structure in 3D environments.  
+# A Python implementation of CryptoNets  
 > A Python implementation of CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy.
 It was developed by Marzio Monticelli as final project for the course of Neural Network at Sapienza, University of Rome.
 
