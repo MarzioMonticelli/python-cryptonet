@@ -51,7 +51,7 @@ all the main libraries used in this work.
 Once you are sure your system match the requirements contained in Environment
 section you are ready to install Anaconda.
 You can download Anaconda from the official site (https://www.anaconda.com) :
-be sure to download Anaconda3 (version 3.7 or grater) compatible with your system.
+be sure to download Anaconda3 (version 3.7 or greater) compatible with your system.
 If you need a complete guide to install and use Anaconda on your local machine,
 you can refer to the Anaconda official documentation (https://docs.anaconda.com);
 inside the official documentation you will find all the information you need to complete
